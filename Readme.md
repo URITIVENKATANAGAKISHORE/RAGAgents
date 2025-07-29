@@ -1,9 +1,9 @@
 **🚀 Beginner Projects (Foundation Building)**
   
  ** Smart Document Q&A Bot**
-    Tech: LangChain + RAG + OpenAI + n8n
-    Goal: Upload PDFs or DOCs and ask questions. Use RAG to retrieve relevant chunks and answer using GPT.
-    n8n Role: Automate document ingestion and notifications.
+   Tech: LangChain + RAG + OpenAI + n8n
+   Goal: Upload PDFs or DOCs and ask questions. Use RAG to retrieve relevant chunks and answer using GPT.
+   n8n Role: Automate document ingestion and notifications.
   
   **AI-Powered FAQ Generator**
     Tech: LangChain + GPT + n8n
